@@ -79,8 +79,8 @@
                             <th scope="col">ชื่อสินค้า</th>
                             <th scope="col">ราคาสินค้า</th>
                             <th scope="col">รูป</th>
-                            <th scope="col">#</th>
-                            <th scope="col">#</th>
+                            <th scope="col"></th>
+                            <th scope="col"></th>
                         </tr>
                     </thead>
                     <tbody>
